@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Guitar Quiz App</string>
+    <string name="app_instructions">Take the Guitar Quiz and email the results to whoever doubts your guitar skills!</string>
+    <string name="app_description">This App is a deliverable for the Google Developer Challenge Scholarship 2018. </string>
+    <string name="sendEmail"> Toggle if you want your score to be emailed or shown here: Email = checked, Shown = unchecked</string>
+    <string name="showAnswerKey"> Show Score </string>
+    <string name="question1">1. What chord is shown in this diagram?</string>
+    <string name="answerA1">a.  D Minor</string>
+    <string name="answerB1">b.  D Major 7th</string>
+    <string name="answerC1">c.  D Major</string>
+    <string name="answerD1">d.  D Minor 7th</string>
+    <string name="question2">2. Which type of chords sounds darker and sad?</string>
+    <string name="answerA2">a.  major chords</string>
+    <string name="answerB2">b.  minor chords</string>
+    <string name="question3">3. What guitar accessory is shown in the picture above?</string>
+    <string name="answerA3">a.  a tremolo bar</string>
+    <string name="answerB3">b.  a pick</string>
+    <string name="answerC3">c.  a guitar guard</string>
+    <string name="answerD3">d.  a capo</string>
+    <string name="question4">4. What chord is shown in this diagram?</string>
+    <string name="answerA4">a.  E Minor 7th</string>
+    <string name="answerB4">b.  E Minor</string>
+    <string name="answerC4">c.  E Minor 7th</string>
+    <string name="answerD4">d.  E Minor 6th</string>
+    <string name="questionEditText">5. Who was the original lead guitarist for Gun\'s and Roses?</string>
+
+</resources>
