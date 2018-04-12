@@ -14,6 +14,13 @@ To create my own app about a topic that I desire since I have full ownership ove
 3. The code is hosted in [Github Quiz App Project repo](https://github.com/roylouislgarcia/quizapp.git).
 4. Download the repository and test in Android Studio IDE
 
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
 
 ### Screenshot of the project
 
